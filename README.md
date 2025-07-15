@@ -138,7 +138,7 @@ Restricted jurisdictions: 🇺🇸 🇨🇳 🇯🇵 🇨🇦 🇮🇳 🇹🇭 
 ## 🔗 Official Links
 
 - 🌐 Website: [bluelinkblockchain.com](https://www.bluelinkblockchain.com)
-- 💬 Investor Portal: [ico.bluelinkblockchain.com](https://ico.bluelinkblockchain.com)
+- 💬 Investor Portal: [presale.bluelinkblockchain.com](https://ico.bluelinkblockchain.com)
 - 📈 Exchange: [exchange.bluelinkblockchain.com](https://exchange.bluelinkblockchain.com)
 - 📜 Whitepaper: [`BlueLink_Whitepaper_v14.pdf`](./BlueLink_Whitepaper_v14.pdf)
 
